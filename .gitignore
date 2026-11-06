@@ -1,0 +1,9 @@
+# secrets
+.env
+clients/*/
+!clients/.keep
+*.db
+# python
+__pycache__/
+*.pyc
+.venv/
